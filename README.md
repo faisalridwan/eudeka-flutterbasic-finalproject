@@ -3,6 +3,7 @@ Aplikasi Flutter menampilkan daftar Daftar Minuman dari [TheSportDB](https://www
 
 ### Screenshot
 
+    Under Construction !!!
 
 ### Built With
 - [Flutter](https://flutter.dev)
@@ -11,11 +12,12 @@ Aplikasi Flutter menampilkan daftar Daftar Minuman dari [TheSportDB](https://www
 
 ### Created By
 - [Faisal Ridwan Siregar](https://github.com/faisalridwan)
+    - Home (3 poin)
+    - Detail (3 poin)
     - Data Model (3 poin)
     - Halaman Pencarian (3 poin)
     - Fungsi Pencarian (3 poin)
     - Fungsi REST API (3 poin)
-    - Fungsi CRUD SQLite (3 poin)
 
 ---
 
