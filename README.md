@@ -13,8 +13,8 @@ Aplikasi Flutter menampilkan daftar Daftar Minuman dari [TheSportDB](https://www
 - [Faisal Ridwan Siregar](https://github.com/faisalridwan)
     - Data Model (3 poin)
     - Halaman Pencarian (3 poin)
-    - Fungsi Pencarian (2 poin)
-    - Fungsi REST API (2 poin)
+    - Fungsi Pencarian (3 poin)
+    - Fungsi REST API (3 poin)
     - Fungsi CRUD SQLite (3 poin)
 
 ---
