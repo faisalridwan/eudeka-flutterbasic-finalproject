@@ -30,6 +30,8 @@ dependencies:
   path_provider: ^1.5.1
   url_launcher: ^5.4.1
   community_material_icon: ^3.5.95
+  flat_icons_flutter: ^1.0.2
+  flutter_vector_icons: ^0.2.1
 
 dev_dependencies:
   flutter_test:
