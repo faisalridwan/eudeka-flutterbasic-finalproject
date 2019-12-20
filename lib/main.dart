@@ -1,3 +1,4 @@
+import 'package:finaltask_eudeka/pages/splash.dart';
 import 'package:flutter/material.dart';
 import 'pages/home.dart';
 
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.red,
       ),
-      home: Home(),
+      home: SplashScreen(),
     );
   }
 }
