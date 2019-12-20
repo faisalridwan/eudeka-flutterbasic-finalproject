@@ -1,5 +1,5 @@
 # Flutter Daftar Makanan ( Tugas Akhir - OSG07 )
-Aplikasi Flutter menampilkan daftar Daftar Minuman dari [TheSportDB](https://www.thecocktaildb.com/api.php), beserta detail / Instruction makanan tersebut.
+Aplikasi Flutter menampilkan daftar Daftar Minuman dari [TheCocktailDB](https://www.thecocktaildb.com/api.php), beserta detail/ instruction makanan tersebut.
 
 ### Screenshot
 
@@ -7,7 +7,7 @@ Aplikasi Flutter menampilkan daftar Daftar Minuman dari [TheSportDB](https://www
 
 ### Built With
 - [Flutter](https://flutter.dev)
-- [TheCocktailsDB](https://www.thecocktaildb.com/api.php)
+- [TheCocktailDB](https://www.thecocktaildb.com/api.php)
 
 
 ### Created By
@@ -24,7 +24,7 @@ Aplikasi Flutter menampilkan daftar Daftar Minuman dari [TheSportDB](https://www
 ### Online Study Group Eudeka!
 Salah satu program dari [**Eudeka!**](https://www.eudeka.id) untuk belajar secara _full online_ via Whatsapp/Telegram dan Google Classroom, dengan para praktisi handal di bidangnya. Selain itu juga kamu dapat berkesempatan untuk memperluas koneksimu dengan peserta lain.
 
-### OSG05 - Flutter Basic
+### OSG07 - Flutter Basic
 Dengan jangka waktu lebih kurang 2 bulan, peserta diharapkan dapat mengenal dan membuat aplikasi simple Flutter dengan menggunakan data dari internet (API).
 
 ### Cara Mendaftar Online Study Group
