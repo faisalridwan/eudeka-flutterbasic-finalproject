@@ -40,4 +40,4 @@ Email : [info@eudeka.id](mailto:info@eudeka.id)
 
 ---
 
-###### tags: `Sample` `Eudeka` `OSG05` `Flutter` `Final Project`
+###### tags: `Eudeka` `OSG07` `Flutter` `Final Project`
